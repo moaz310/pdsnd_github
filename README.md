@@ -15,3 +15,5 @@ The project is give some research and envistegation on a **bikeshare** data base
 ### Credits
 Got help from udacity instructors 
 
+### how to run
+open bikeshare file and follow the instruction. **python3.7 needed**
